@@ -1,3 +1,15 @@
+#Used Scss for Styling
+
+Hosted website in Netlify: https://lnkd.in/dPbXVHjT
+
+# used react routing
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
